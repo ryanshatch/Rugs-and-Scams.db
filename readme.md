@@ -28,6 +28,8 @@
 - Sidus/Senate: 0x5E6119CC5881598eA9F10521BAE21EF8AAF612d3 - https://etherscan.io/address/0x5e6119cc5881598ea9f10521bae21ef8aaf612d3
 - Dalarnia: 0x128f0081Fdcb8b902fF0f45Ae90bBE93d87dF47b - https://etherscan.io/address/0x128f0081fdcb8b902ff0f45ae90bbe93d87df47b
 ##
+#### 0xfxnction
+##
 #### Kmoney - kmoney.sol
 - $sol - 7byBtWp7uW8eYNs1N4uDesGf5hw8gkCdbPUWi6ckyUNX
   - solscan: https://solscan.io/account/7byBtWp7uW8eYNs1N4uDesGf5hw8gkCdbPUWi6ckyUNX
