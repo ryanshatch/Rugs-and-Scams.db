@@ -1,2 +1,1 @@
-*.html text
-*.css text
+*.* linguist-language=text
