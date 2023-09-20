@@ -8,11 +8,11 @@
       <h2>Contents</h2>
       <ul>
         <p></p>
-        <a href="scammerdb.html">scammer db.html</a>
+        <a href="scammer db.html">scammer db.html</a>
         <br>This HTML file contains a list of email addresses used by Nigerian scammers. You can use this file to access the email addresses easily. </p>
       </ul>
       <h2>Usage</h2>
-      <p>You can use the email addresses in the <a href="scammerdb.html">scammerdb.html</a> file to identify and block potential scam emails. <br>Additionally, you can use these email addresses for scam baiting purposes, if you have the necessary skills and precautions in place. </p>
+      <p>You can use the email addresses in the <a href="scammer db.html">scammerdb.html</a> file to identify and block potential scam emails. <br>Additionally, you can use these email addresses for scam baiting purposes, if you have the necessary skills and precautions in place. </p>
       <h2>Disclaimer</h2>
       <p>Scam baiting can be a risky activity, and it's essential to take precautions to protect your identity and personal information. Engaging with scammers should be done responsibly and legally. Be aware of the laws and regulations in your jurisdiction related to scam baiting.</p>
       <p>Please use this database responsibly and within the boundaries of the law. The creators of this repository are not responsible for any consequences resulting from the use of this information.</p>
