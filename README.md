@@ -8,8 +8,9 @@
       <h2>Contents</h2>
       <ul>
         <p></p>
-        <a href="scammer db.html">scammer db.html</a>
+        <a href="https://github.com/ryanshatch/Scam-Bait/blob/main/scammer%20DB.html">scammerdb.html</a>
         <br>This HTML file contains a list of email addresses used by Nigerian scammers. You can use this file to access the email addresses easily. </p>
+        <a href="https://github.com/ryanshatch/Scam-Bait/blob/main/wallets.md">wallets.md</a> <br>This Markdown file contains information about known scammer wallets and payment methods.</a>
       </ul>
       <h2>Usage</h2>
       <p>You can use the email addresses in the <a href="scammer db.html">scammerdb.html</a> file to identify and block potential scam emails. <br>Additionally, you can use these email addresses for scam baiting purposes, if you have the necessary skills and precautions in place. </p>
