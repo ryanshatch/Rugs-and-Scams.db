@@ -8,7 +8,7 @@
       <h2>Contents</h2>
       <ul>
         <p></p>
-        <a href="scammerdb.html">scammerdb.html</a>
+        <a href="scammerdb.html">scammer db.html</a>
         <br>This HTML file contains a list of email addresses used by Nigerian scammers. You can use this file to access the email addresses easily. </p>
       </ul>
       <h2>Usage</h2>
