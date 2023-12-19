@@ -13,9 +13,10 @@ All Chains - https://blockscan.com/address/0x84d34f4f83a87596cd3fb6887cff8f17bf5
   - solscan: https://solscan.io/account/7byBtWp7uW8eYNs1N4uDesGf5hw8gkCdbPUWi6ckyUNX
   - birdeye profile: https://birdeye.so/profile/7byBtWp7uW8eYNs1N4uDesGf5hw8gkCdbPUWi6ckyUNX?chain=solana
 ##
-#### Dusting Attack wallet 
+#### Dusting Attack wallet
 - $sol - 777vxoS8tWgLEgr6yMp5scadhnWxkksRKDMQFBJKD24N
   - solscan: https://solscan.io/account/777vxoS8tWgLEgr6yMp5scadhnWxkksRKDMQFBJKD24N
+    - ```dusting attack: when a small amount of crypto is sent to a large number of wallet addresses. The attackers then attempt to trace the transaction activity of these wallets in order to de-anonymize them.```
 ##
 #### FB Brooklynn Taylor Buff (Hacked acct) (changed to Faith Spires)  -  bc1q9etmuux673pkrtqsh6m3fratuqxw22nc70s2gu
 https://www.facebook.com/luhh.faithh  -  https://blockchair.com/bitcoin/address/bc1q9etmuux673pkrtqsh6m3fratuqxw22nc70s2gu
