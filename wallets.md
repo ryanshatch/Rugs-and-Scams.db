@@ -21,7 +21,7 @@ This document provides an overview and analysis of various cryptocurrency wallet
 
 ## Tracking List
 
-1. **Current Analysis**: `2GsFJ1JR1j8RAWuUfdJPXdjknq5VmKG9XSfoTZdqQeoR`
+1. **Currently Under Analysis**: `2GsFJ1JR1j8RAWuUfdJPXdjknq5VmKG9XSfoTZdqQeoR`
 2. **Sam Bankman Fried - SBF - Alameda Research 25**: `0x84D34f4f83a87596Cd3FB6887cFf8F17Bf5A7B83`
 3. **Fz Pamajj - Burner 2**: `3LT9mkc7yQTofJVa3MSeEFg15Wehk4y7ZWwmfmUu7qvx`
 4. **Fz Pamajj - Burner 1**: `41tCXQbqaTDfkYzEPRQzkL1d8kVck7GgCXQsMcT7bnUk`
