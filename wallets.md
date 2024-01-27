@@ -32,7 +32,7 @@ This document provides an overview and analysis of various cryptocurrency wallet
 9. **Alex Becker - Dalarnia**: `0x128f0081Fdcb8b902fF0f45Ae90bBE93d87dF47b`
 10. **Kmoney - kmoney.sol**: `7byBtWp7uW8eYNs1N4uDesGf5hw8gkCdbPUWi6ckyUNX`
 11. **Dusting Attack wallet**: `777vxoS8tWgLEgr6yMp5scadhnWxkksRKDMQFBJKD24N`
-12. **0xfxnction**: `6SFShytsPZ61KuauRbBppAcs6WwuNXmEHpFxBUp68EKP` Domain: `(kingofsolanabeach.sol)`
+12. **0xfxnction**: `6SFShytsPZ61KuauRbBppAcs6WwuNXmEHpFxBUp68EKP` <br>Domain: `(kingofsolanabeach.sol)`
 13. **FB Brooklynn Taylor Buff (Hacked acct) - Faith Spires**: `bc1q9etmuux673pkrtqsh6m3fratuqxw22nc70s2gu`
 14. **FB Brooklynn Taylor Buff (Hacked acct updated June 23) - Faith Spires**: `3B8PAG1ynzghVixBNDfGAijfWthob8sgQo`
 15. **FB Hollie Harvell hacked acct 9/3/2023**: `35jFVWx6fNUV8QA5vsVtw6iXE5XpBDFJet`
