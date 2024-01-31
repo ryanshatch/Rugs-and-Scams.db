@@ -36,4 +36,3 @@ This document provides an overview and analysis of various cryptocurrency wallet
 13. **FB Brooklynn Taylor Buff (Hacked acct) - Faith Spires**: `bc1q9etmuux673pkrtqsh6m3fratuqxw22nc70s2gu`
 14. **FB Brooklynn Taylor Buff (Hacked acct updated June 23) - Faith Spires**: `3B8PAG1ynzghVixBNDfGAijfWthob8sgQo`
 15. **FB Hollie Harvell hacked acct 9/3/2023**: `35jFVWx6fNUV8QA5vsVtw6iXE5XpBDFJet`
-<br>
