@@ -47,3 +47,7 @@ https://www.facebook.com/luhh.faithh  -  https://blockchair.com/bitcoin/address/
 ##
 #### FB Hollie Harvell hacked acct 9/3/2023  -  35jFVWx6fNUV8QA5vsVtw6iXE5XpBDFJet 
 https://www.facebook.com/hollie.harvell.77  -  https://blockchair.com/bitcoin/address/35jFVWx6fNUV8QA5vsVtw6iXE5XpBDFJet
+##
+#### Luwizop ($sol Panic Station Pythons rugger)  -  3YaGKXSuxwfvKiJ83V92hKRvh23w1RdYgrwY7C5CSNG6
+- solscan: https://solscan.io/account/3YaGKXSuxwfvKiJ83V92hKRvh23w1RdYgrwY7C5CSNG6#portfolio
+##
