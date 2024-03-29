@@ -1,44 +1,5 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link type="text/css" rel="stylesheet" href="resources/sheet.css">
-<style type="text/css">
-  .ritz .waffle a {
-    color: inherit;
-  }
-  .ritz .waffle .s0 {
-    background-color: #ffffff;
-    text-align: left;
-    font-weight: bold;
-    color: #000000;
-    font-family: 'Arial';
-    font-size: 10pt;
-    vertical-align: bottom;
-    white-space: nowrap;
-    direction: ltr;
-    padding: 2px 3px 2px 3px;
-  }
-  .ritz .waffle .s2 {
-    background-color: #ffffff;
-    text-align: right;
-    color: #000000;
-    font-family: 'Arial';
-    font-size: 10pt;
-    vertical-align: bottom;
-    white-space: nowrap;
-    direction: ltr;
-    padding: 2px 3px 2px 3px;
-  }
-  .ritz .waffle .s1 {
-    background-color: #ffffff;
-    text-align: left;
-    color: #000000;
-    font-family: 'Arial';
-    font-size: 10pt;
-    vertical-align: bottom;
-    white-space: nowrap;
-    direction: ltr;
-    padding: 2px 3px 2px 3px;
-  }
-</style>
 <div class="ritz grid-container" dir="ltr">
   <table class="waffle" cellspacing="0" cellpadding="0">
     <thead>
@@ -401,45 +362,7 @@
     </tbody>
   </table>
 </div>
-<style type="text/css">
-  .ritz .waffle a {
-    color: inherit;
-  }
-  .ritz .waffle .s0 {
-    background-color: #ffffff;
-    text-align: left;
-    font-weight: bold;
-    color: #000000;
-    font-family: 'Arial';
-    font-size: 10pt;
-    vertical-align: bottom;
-    white-space: nowrap;
-    direction: ltr;
-    padding: 2px 3px 2px 3px;
-  }
-  .ritz .waffle .s2 {
-    background-color: #ffffff;
-    text-align: right;
-    color: #000000;
-    font-family: 'Arial';
-    font-size: 10pt;
-    vertical-align: bottom;
-    white-space: nowrap;
-    direction: ltr;
-    padding: 2px 3px 2px 3px;
-  }
-  .ritz .waffle .s1 {
-    background-color: #ffffff;
-    text-align: left;
-    color: #000000;
-    font-family: 'Arial';
-    font-size: 10pt;
-    vertical-align: bottom;
-    white-space: nowrap;
-    direction: ltr;
-    padding: 2px 3px 2px 3px;
-  }
-</style>
+<br><hr><br>
 <div class="ritz grid-container" dir="ltr">
   <table class="waffle" cellspacing="0" cellpadding="0">
     <thead>
