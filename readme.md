@@ -8,7 +8,8 @@
 #### Sam Bankman Fried - SBF
 - Alameda Research 25: 0x84D34f4f83a87596Cd3FB6887cFf8F17Bf5A7B83
     - $eth - https://etherscan.io/address/0x84d34f4f83a87596cd3fb6887cff8f17bf5a7b83<br>
-    - All Chains - https://blockscan.com/address/0x84d34f4f83a87596cd3fb6887cff8f17bf5a7b83
+    - All Chains - https://blockscan.com/address/0x84d34f4f83a87596cd3fb6887cff8f17bf5a7b83<br><br>
+          - More detailed analysis on FTX wallets can be found in this subrepository - https://github.com/ryanshatch/Scam-Bait/tree/main/FTX
 ##
 #### Fz Pamajj - $sol
 - Exchange.art account: https://exchange.art/fz-pamajj/nfts
