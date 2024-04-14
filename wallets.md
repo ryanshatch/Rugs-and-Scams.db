@@ -22,7 +22,9 @@ This document provides an overview and analysis of various cryptocurrency wallet
 ## Tracking List
 <hr>
     
-## **Individuals That Are Currently Under Analysis**: `2GsFJ1JR1j8RAWuUfdJPXdjknq5VmKG9XSfoTZdqQeoR` and `0xAAcE3E2dB13C372C74BDaE118f045D49daC8AE18`
+## **Individuals That Are Currently Under Analysis**: 
+
+`2GsFJ1JR1j8RAWuUfdJPXdjknq5VmKG9XSfoTZdqQeoR` and `0xAAcE3E2dB13C372C74BDaE118f045D49daC8AE18`
 <hr>
 
 2. **Sam Bankman Fried - SBF - Alameda Research 25**: `0x84D34f4f83a87596Cd3FB6887cFf8F17Bf5A7B83`
