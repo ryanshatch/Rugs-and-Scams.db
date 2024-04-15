@@ -16,6 +16,7 @@
         <p></p><bold>Current Analysis:    </bold>    <code>2GsFJ1JR1j8RAWuUfdJPXdjknq5VmKG9XSfoTZdqQeoR</code></p>
     </div><hr>
     <img alt="Solana" src="https://github.com/imaclone-sol/Rugger-Wallet-DB/blob/main/PamajjDAO%20burning.JPG" />
+    <hr>
     <h3>Sam Bankman Fried - SBF</h3>
 <!--     <ul> -->
         <h4>Alameda Research 25: <code>0x84D34f4f83a87596Cd3FB6887cFf8F17Bf5A7B83</code></h4>
