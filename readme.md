@@ -7,13 +7,15 @@
 </head>
 <body>
     <div style="text-align: center;">
-        <h2>This is my database of crypto wallets to all scammers and ruggers that I encounter.</h2>
+        <h1>Wallet Database</h1>
+        <h3>This is a database of crypto wallets of all scammers and ruggers that I encounter.<br></h3>
+        <h4><bold>I consistently add, maintain, and follow all of the data parsed into this repo.</bold></h4><hr>
     </div>
-    <div style="text-align: center;">
+<!--     <div style="text-align: center;">
         <h3><bold>I consistently add, maintain, and follow all of the data parsed into this repo.</bold></h3>
-    </div>
+    </div> -->
     <div style="text-align: center;">
-        <p></p><bold>Current Analysis:    </bold>    <code>2GsFJ1JR1j8RAWuUfdJPXdjknq5VmKG9XSfoTZdqQeoR</code></p>
+        <p></p><bold>Wallets Currently Under Analysis:    </bold>    <code>2GsFJ1JR1j8RAWuUfdJPXdjknq5VmKG9XSfoTZdqQeoR</code> and <code>0xAAcE3E2dB13C372C74BDaE118f045D49daC8AE18</code></p>
     </div><hr>
     <img alt="Solana" src="https://github.com/imaclone-sol/Rugger-Wallet-DB/blob/main/PamajjDAO%20burning.JPG" />
     <hr>
