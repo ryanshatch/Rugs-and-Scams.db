@@ -1,5 +1,4 @@
 # Parsing from solscan
-
 ## Overview
 This repository contains tools for parsing and merging various file types, particularly focusing on CSV files. It provides a graphical user interface (GUI) for easy file merging and visualizing data loss.
 
