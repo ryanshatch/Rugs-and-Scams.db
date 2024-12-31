@@ -15,7 +15,7 @@
         <h3><bold>I consistently add, maintain, and follow all of the data parsed into this repo.</bold></h3>
     </div> -->
     <div style="text-align: center;">
-        <p></p><bold>Wallets currently under analysis:</bold> <code>0xC6aa2f0FF6b8563EA418ec2558890D6027413699</code><br><br><s><code>2GsFJ1JR1j8RAWuUfdJPXdjknq5VmKG9XSfoTZdqQeoR</code></s><br><code><s>0xAAcE3E2dB13C372C74BDaE118f045D49daC8AE18</s></code><br><s><code>6UWokqQxV4mcK7DeggjQGYMvLJ5HY6zH8AM1Bj6axPGw</code></s></p>
+        <p></p><bold>Wallets currently under analysis:</bold><br>ENS: drewroberts.eth<br><code>0xC6aa2f0FF6b8563EA418ec2558890D6027413699</code><br><br><s><code>2GsFJ1JR1j8RAWuUfdJPXdjknq5VmKG9XSfoTZdqQeoR</code></s><br><code><s>0xAAcE3E2dB13C372C74BDaE118f045D49daC8AE18</s></code><br><s><code>6UWokqQxV4mcK7DeggjQGYMvLJ5HY6zH8AM1Bj6axPGw</code></s></p>
     </div><hr>
     <img alt="Solana" src="https://github.com/imaclone-sol/Rugger-Wallet-DB/blob/main/PamajjDAO%20burning.JPG" />
     <hr>
